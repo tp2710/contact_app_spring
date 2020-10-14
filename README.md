@@ -1,4 +1,4 @@
-# contact_app_spring
+# Description
 Contact Application using Spring
 
 #Technology Stack:
